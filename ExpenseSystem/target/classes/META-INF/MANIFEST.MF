@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: phase5restwithrealservcieandrealdao
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Admin
+Implementation-Vendor-Id: pocisimportant
+Build-Jdk: 1.8.0_202
+Implementation-URL: https://spring.io/projects/spring-boot/phase5restw
+ ithrealservcieandrealdao
+Created-By: Maven Integration for Eclipse
+
